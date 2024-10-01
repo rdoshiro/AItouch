@@ -1,5 +1,5 @@
-streamlit-webrtc
 opencv-python-headless==4.5.5.64
-streamlit
-numpy
-mediapipe
+streamlit>=1.30
+streamlit-webrtc>=0.47
+opencv-python>=4.9
+numpy>=1.26
